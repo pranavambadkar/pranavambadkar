@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Pranav Ambadkar
-- 🔭 I’m currently working on Django Projects
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Django
+- 👋 Hi, I’m Pranav Ambadkar, a Web Developer
+- 🔭 I’m currently working on React JS + Django Projects
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on React JS and Django
 
 <!---
 pranavambadkar/pranavambadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
