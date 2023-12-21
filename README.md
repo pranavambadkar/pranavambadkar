@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pranav Ambadkar, a Web Developer
+- 👋 Hi, I’m Pranav Ambadkar, a Full Stack Web Developer
 - 🔭 I’m currently working on React JS + Django Projects
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Next JS
 - 💞️ I’m looking to collaborate on React JS and Django
 
 <!---
