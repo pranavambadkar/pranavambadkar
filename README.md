@@ -1,7 +1,24 @@
-- 👋 Hi, I’m Pranav Ambadkar, a Full Stack Web Developer
-- 🔭 I’m currently working on React JS + Django Projects
-- 🌱 I’m currently learning Next JS
-- 💞️ I’m looking to collaborate on React JS and Django
+# 👋 Hi, I'm Pranav Ambadkar!
+
+🎓 M.Sc. Geoinformatics and Spatial Data Science student at the University of Münster, Germany.
+
+💻 Computer Engineering graduate with experience in Technical Support, Data Analysis, and Software Development.
+
+🔭 Exploring Geoinformatics, Data Science, GIS, and 3D Reconstruction.
+
+🛠️ **Technical Skills**
+- **Languages:** Python, C++, SQL, JavaScript
+- **Data Science:** Pandas, Matplotlib, Statistics, Power BI
+- **GIS:** QGIS, Spatial Data Analysis
+- **Development:** Django, HTML, CSS, Bootstrap
+- **Tools:** Jupyter, Git, GitHub, Salesforce, Sumo Logic, Jira
+- **Other:** OpenCV, Machine Learning Basics
+
+💼 Experience: Technical Support Analyst at Hudl | Django Developer Intern at Trivia Softwares.
+
+🤝 Open to collaborating on Geoinformatics, Data Science, Python, and AI projects.
+
+
 
 <!---
 pranavambadkar/pranavambadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
