@@ -14,7 +14,7 @@
 - **Tools:** Jupyter, Git, GitHub, Salesforce, Sumo Logic, Jira
 - **Other:** OpenCV, Machine Learning Basics
 
-💼 Experience: Technical Support Analyst at Hudl | Django Developer Intern at Trivia Softwares.
+💼 Experience: Analyst at Hudl | Django Developer Intern at Trivia Softwares.
 
 🤝 Open to collaborating on Geoinformatics, Data Science, Python, and AI projects.
 
